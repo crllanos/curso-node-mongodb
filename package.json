@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Cristian Llanos - cristian.llanos@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
