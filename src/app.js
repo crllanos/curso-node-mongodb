@@ -1,5 +1,5 @@
 // imports
-const app 		= require('express')(); // npm run dev
+const app 		= require('express')(); // npm run dev || npm start
 const morgan 	= require('morgan');
 const routes 	= require('./routes/index');
 const mongoose 	= require('mongoose'); // sudo mongod --dbpath ./data/db --port 27017 
